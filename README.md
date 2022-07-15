@@ -26,8 +26,8 @@ Predicting extreme weather is difficult. Not only are there many different types
 * Rising levels of rivers - is it possible that the rivers could overflow
 * Temperature - how extrem can the temperatures become
 
-The goal is simple, what is a probability of Extremweather in the future for a particular region. We can treat each data source listed above as single neuron and apply different AI method to it. If enough neurons show high probability of changing weather, then we have a potential candidate for a city that will encounter a  crisis in the future. We can also apply different importance value to each neuron. For example, low rainfall and high temperature might look like , a future dry period and bad news for a city but they might be already aware and have advance research on desalination.
+The objective is straightforward, what is a likelihood of Extremweather coming soon for a specific district. We can treat every information source recorded above as single neuron and apply different AI strategy to it. In the event that enough neurons show high likelihood of evolving climate, we have a possible contender for a city that will experience an emergency later on. We can likewise apply different significance worth to every neuron. For instance, low precipitation and high temperature could seem to be , a future dry period and terrible news for a city however they may be now mindful and have advance examination on desalination.
 
-Odds and probability are going to be important subjects in this project. We will have to do our best to predict future dry periods, rainfalls and water consumption. Looking at past Extremweather around the word might provide valuable insights. 
-The flooding of the Ahr-valley was a period of extrem Rainfall and grounds that were already soaked from the rain during the day. 
+Chances and likelihood will be significant subjects in this task. We should give a valiant effort to foresee future dry periods, rainfalls and water utilization. Taking a gander at past Extremweather around the word could give significant bits of knowledge.
+
 
